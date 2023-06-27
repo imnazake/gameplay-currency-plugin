@@ -12,4 +12,4 @@ A simple currency system plugin that supports 3 different types of coins (eg. Go
 + Replicated
 
 #### Preview
-# ![](/Docs/Preview.PNG)
+# ![](/Docs/Preview.JPG)

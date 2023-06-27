@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GameplayCurrency",
+	"Description": "Allows any actor to have an in-game currency system that can be used with different components such as inventories, merchants etc.",
+	"Category": "Other",
+	"CreatedBy": "Neoxyne",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GameplayCurrency",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

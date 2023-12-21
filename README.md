@@ -33,12 +33,12 @@ Supported
 ## Installation
 
 1. Clone or download the repository.
-2. Copy the "CurrencySystem" folder into the "Plugins" directory of your Unreal Engine project.
+2. Copy the "GameplayCurrency" folder into the "Plugins" directory of your Unreal Engine project.
 3. Compile the project to ensure the plugin is integrated.
 
 ## Sample Project
 
-The sample project included in this repository demonstrates the basic functionality of the Unreal Currency System Plugin. Follow these steps to run the sample project:
+The sample project included in this repository demonstrates the basic functionality of the Gameplay Currency Plugin. Follow these steps to run the sample project:
 
 1. Open the sample project in Unreal Engine.
 2. Explore the sample scenes and currency system integration.

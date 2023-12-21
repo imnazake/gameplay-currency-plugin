@@ -2,6 +2,9 @@
 
 A simple and flexible solution for implementing a currency system in your Unreal Engine projects. It supports three different types of coins - Gold, Silver, and Copper - and includes a sample project to demonstrate integration.
 
+##
+![](/Docs/Preview.JPG)
+
 ## Features
 
 - **Multiple Coin Types:** Define and manage three distinct coin types to suit your in-game economy.

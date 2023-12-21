@@ -9,7 +9,7 @@ A simple and flexible solution for implementing a currency system in your Unreal
 - **Sample Project:** Explore the included sample project to see the plugin in action and learn how to integrate it into your own projects.
 - **Convenient API:** Use the provided API to interact with the currency system programmatically.
 
-## Engine Versions
+## Supported Engine Versions
 
 5.0 or higher
 

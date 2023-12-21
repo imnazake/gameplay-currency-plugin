@@ -12,20 +12,6 @@ A simple and flexible solution for implementing a currency system in your Unreal
 - **Sample Project:** Explore the included sample project to see the plugin in action and learn how to integrate it into your own projects.
 - **Convenient API:** Use the provided API to interact with the currency system programmatically.
 
-## Supported Engine Versions
-
-5.0 or higher
-
-## Supported Platforms
-
-- Windows
-- Mac
-- Linux
-
-## Network Replication Support
-
-Supported
-
 ## Getting Started
 
 1. Install the plugin in your Unreal Engine project.
@@ -51,6 +37,20 @@ The sample project included in this repository demonstrates the basic functional
 
 - **Configuring Currency Types:** Open the plugin settings to configure the coin types and their values.
 - **In-Game Usage:** Integrate the provided API calls in your Blueprints or code to use the currency system in your game.
+
+## Supported Engine Versions
+
+5.0 or higher
+
+## Supported Platforms
+
+- Windows
+- Mac
+- Linux
+
+## Network Replication Support
+
+Supported
 
 ## Contributions
 

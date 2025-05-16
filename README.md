@@ -60,10 +60,6 @@ Contributions and feedback are appreciated. If you encounter issues or have sugg
 
 This plugin is released under the [MIT License](LICENSE).
 
-## Author
-
-Nazake
-
 ## Version
 
 1.0
